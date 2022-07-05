@@ -3,9 +3,9 @@
 I am an [EE engineer](https://www.linkedin.com/in/galip-argun/) and creative developer, writer and a coding enthusiast such as python, HTML, CSS, PHP and additionally SQL, mySQL. I can build anything from mobile to web app. I am living in lovely Bremen, Germany. Currently, a master student at the University of Bremen.
 <br>
 
-[More about me -->](galipargun.com/about-me) <br>
-[My personal website -->](galipargun.com)<br>
-[@galipargun on Instagram -->](instagram.com/galipargun)<br>
+[More about me -->](http://www.galipargun.com/about-me) <br>
+[My personal website -->](http://www.galipargun.com)<br>
+[@galipargun on Instagram -->](http://www.instagram.com/galipargun)<br>
 
 <!--
 **glpargun/glpargun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
