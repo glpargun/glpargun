@@ -1,6 +1,6 @@
 ### Hi there, I am Galip 👋
 
-I am an EE engineer and creative developer, writer and a coding enthusiast such as python, HTML, CSS, PHP and additionally SQL, mySQL. I can build anything from mobile to web app. I am living in lovely Bremen, Germany. Currently, a master student at the University of Bremen.
+I am an [EE engineer](https://www.linkedin.com/in/galip-argun/) and creative developer, writer and a coding enthusiast such as python, HTML, CSS, PHP and additionally SQL, mySQL. I can build anything from mobile to web app. I am living in lovely Bremen, Germany. Currently, a master student at the University of Bremen.
 <br>
 
 [More about me -->](galipargun.com/about-me) <br>
