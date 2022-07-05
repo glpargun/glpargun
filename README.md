@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Galip 👋
+
+I am an EE engineer and creative developer, writer and a coding enthusiast such as python, HTML, CSS, PHP and additionally SQL, mySQL. I can build anything from mobile to web app. I am living in lovely Bremen, Germany. Currently, a master student at the University of Bremen.
+
+[More about me -->](galipargun.com/about-me)
+[My personal website -->](galipargun.com)
+[@galipargun on Instagram -->](instagram.com/galipargun)
 
 <!--
 **glpargun/glpargun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
